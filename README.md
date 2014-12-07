@@ -15,3 +15,15 @@ Character conversions from http://rishida.net/tools/conversion/
 	
 	
 	21 jun, added remaining entities to entities.js, and corrected emspace, rlm, etc.
+
+##Usage
+
+```
+npm i character-conversion --save
+```
+
+```
+var convert = require('character-conversion');
+
+var text = convert('text with encodings');
+```
