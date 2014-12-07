@@ -1,0 +1,19 @@
+{
+  "name": "conversion",
+  "version": "1.0.0",
+  "description": "js character conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ile/conversion.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/ile/conversion/issues"
+  },
+  "homepage": "https://github.com/ile/conversion"
+}
